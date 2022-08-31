@@ -1,6 +1,6 @@
 # daily_reminder
 
-模板内容如下：
+
 
 {{date.DATA}} 
 
